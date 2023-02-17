@@ -140,7 +140,6 @@ img{
         backdrop-filter: blur(10px);
     }
     .home__img {
-        border: 1px solid;
         right: 10px !important;
     }
 }
